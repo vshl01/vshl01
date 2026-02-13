@@ -1,14 +1,5 @@
 <h1 align="center">Vishal Vishwakarma</h1>
-<h3 align="center">Full Stack Engineer • Real-Time Systems • Web3 (Solana)</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vshl01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vshl01&theme=tokyonight&hide_border=true" />
-</p>
----
+<h3 align="center">Full Stack Engineer • Real-Time Systems • Into the Web3 (Solana)</h3>
 
 ## ⚡ About Me
 
@@ -36,11 +27,11 @@
 
 ### Web3
 
-`Solana` `Smart Contracts` `Wallet Integrations` `On-chain logic`
+`Solana` `Smart Contracts` `Wallet Integrations` `On-chain logic` `Solana Mobile`
 
 ### Cloud & Infra
 
-`Google Cloud` `Firebase` `CI/CD` `GitHub Actions`
+`Google Cloud` `Firebase` `CI/CD` `GitHub Actions` `Kubernetes`
 
 ---
 
@@ -51,8 +42,6 @@
 - 🌐 **Solana Web3 Projects** – On-chain interaction & wallet integration
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/vshl01/vshl01/blob/output/github-contribution-grid-snake.svg" />
@@ -72,5 +61,3 @@
 
 - Web3 / Solana Builder
 - Open to high-impact engineering roles
-
-![Snake animation](https://github.com/vshl01/vshl01/blob/output/github-contribution-grid-snake.svg)
