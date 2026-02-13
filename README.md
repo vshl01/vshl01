@@ -1,5 +1,5 @@
 <h1 align="center">Vishal Vishwakarma</h1>
-<h3 align="center">Into the Web3 (Solana) • Real-Time Systems • Full Stack Engineer</h3>
+<h3 align="center">Into the Web3 (Solana) • Full Stack Engineer • Real-Time Systems </h3>
 
 ## ⚡ About Me
 
