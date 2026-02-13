@@ -2,10 +2,12 @@
 <h3 align="center">Full Stack Engineer • Real-Time Systems • Web3 (Solana)</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vshl01&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vshl01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vshl01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vshl01&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## ⚡ About Me
