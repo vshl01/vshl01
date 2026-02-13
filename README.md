@@ -11,6 +11,14 @@
 
 ---
 
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vshl01&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 ### Frontend
@@ -45,14 +53,6 @@
 
 <p align="center">
   <img src="https://github.com/vshl01/vshl01/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vshl01&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
